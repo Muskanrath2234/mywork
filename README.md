@@ -1,1 +1,1 @@
-# mywork - practicing machine learning basics
+# mywork - machine learning basics
